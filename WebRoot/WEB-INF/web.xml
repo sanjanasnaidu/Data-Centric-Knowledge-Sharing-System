@@ -1,0 +1,241 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<web-app version="2.5" 
+	xmlns="http://java.sun.com/xml/ns/javaee" 
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+	xsi:schemaLocation="http://java.sun.com/xml/ns/javaee 
+	http://java.sun.com/xml/ns/javaee/web-app_2_5.xsd">
+	
+  <servlet>
+    <description>This is the description of my J2EE component</description>
+    <display-name>This is the display name of my J2EE component</display-name>
+    <servlet-name>regg1servlet</servlet-name>
+    <servlet-class>dckss.regg1servlet</servlet-class>
+  </servlet>
+  <servlet>
+    <description>This is the description of my J2EE component</description>
+    <display-name>This is the display name of my J2EE component</display-name>
+    <servlet-name>askqueservlet</servlet-name>
+    <servlet-class>dckss.askqueservlet</servlet-class>
+  </servlet>
+  <servlet>
+    <description>This is the description of my J2EE component</description>
+    <display-name>This is the display name of my J2EE component</display-name>
+    <servlet-name>postservlet</servlet-name>
+    <servlet-class>postservlet</servlet-class>
+  </servlet>
+  <servlet>
+    <description>This is the description of my J2EE component</description>
+    <display-name>This is the display name of my J2EE component</display-name>
+    <servlet-name>searchservlet</servlet-name>
+    <servlet-class>dckss.searchservlet</servlet-class>
+  </servlet>
+  <servlet>
+    <description>This is the description of my J2EE component</description>
+    <display-name>This is the display name of my J2EE component</display-name>
+    <servlet-name>loginnservlet</servlet-name>
+    <servlet-class>dckss.loginnservlet</servlet-class>
+  </servlet>
+  <servlet>
+    <description>This is the description of my J2EE component</description>
+    <display-name>This is the display name of my J2EE component</display-name>
+    <servlet-name>forgotservlet</servlet-name>
+    <servlet-class>dckss.forgotservlet</servlet-class>
+  </servlet>
+  <servlet>
+    <description>This is the description of my J2EE component</description>
+    <display-name>This is the display name of my J2EE component</display-name>
+    <servlet-name>pro1servlet</servlet-name>
+    <servlet-class>dckss.pro1servlet</servlet-class>
+  </servlet>
+  <servlet>
+    <description>This is the description of my J2EE component</description>
+    <display-name>This is the display name of my J2EE component</display-name>
+    <servlet-name>pro3servlet</servlet-name>
+    <servlet-class>dckss.pro3servlet</servlet-class>
+  </servlet>
+  <servlet>
+    <description>This is the description of my J2EE component</description>
+    <display-name>This is the display name of my J2EE component</display-name>
+    <servlet-name>pro2servlet</servlet-name>
+    <servlet-class>dckss.pro2servlet</servlet-class>
+  </servlet>
+  <servlet>
+    <description>This is the description of my J2EE component</description>
+    <display-name>This is the display name of my J2EE component</display-name>
+    <servlet-name>forgotpswservlet</servlet-name>
+    <servlet-class>dckss.forgotpswservlet</servlet-class>
+  </servlet>
+  <servlet>
+    <description>This is the description of my J2EE component</description>
+    <display-name>This is the display name of my J2EE component</display-name>
+    <servlet-name>update1servlet</servlet-name>
+    <servlet-class>dckss.update1servlet</servlet-class>
+  </servlet>
+  <servlet>
+    <description>This is the description of my J2EE component</description>
+    <display-name>This is the display name of my J2EE component</display-name>
+    <servlet-name>uploadservlet</servlet-name>
+    <servlet-class>dckss.uploadservlet</servlet-class>
+  </servlet>
+  <servlet>
+    <description>This is the description of my J2EE component</description>
+    <display-name>This is the display name of my J2EE component</display-name>
+    <servlet-name>downloadservlet</servlet-name>
+    <servlet-class>dckss.downloadservlet</servlet-class>
+  </servlet>
+  <servlet>
+    <description>This is the description of my J2EE component</description>
+    <display-name>This is the display name of my J2EE component</display-name>
+    <servlet-name>deleteservlet</servlet-name>
+    <servlet-class>dckss.deleteservlet</servlet-class>
+  </servlet>
+  <servlet>
+    <description>This is the description of my J2EE component</description>
+    <display-name>This is the display name of my J2EE component</display-name>
+    <servlet-name>EmpDao</servlet-name>
+    <servlet-class>dckss.EmpDao</servlet-class>
+  </servlet>
+  <servlet>
+    <description>This is the description of my J2EE component</description>
+    <display-name>This is the display name of my J2EE component</display-name>
+    <servlet-name>viewfilesservlet</servlet-name>
+    <servlet-class>dckss.viewfilesservlet</servlet-class>
+  </servlet>
+  <servlet>
+    <description>This is the description of my J2EE component</description>
+    <display-name>This is the display name of my J2EE component</display-name>
+    <servlet-name>updateservlet</servlet-name>
+    <servlet-class>dckss.updateservlet</servlet-class>
+  </servlet>
+  <servlet>
+    <description>This is the description of my J2EE component</description>
+    <display-name>This is the display name of my J2EE component</display-name>
+    <servlet-name>answerservlet</servlet-name>
+    <servlet-class>dckss.answerservlet</servlet-class>
+  </servlet>
+  <servlet>
+    <description>This is the description of my J2EE component</description>
+    <display-name>This is the display name of my J2EE component</display-name>
+    <servlet-name>FileUpload</servlet-name>
+    <servlet-class>dckss.FileUpload</servlet-class>
+  </servlet>
+  <servlet>
+    <description>This is the description of my J2EE component</description>
+    <display-name>This is the display name of my J2EE component</display-name>
+    <servlet-name>postservlet1</servlet-name>
+    <servlet-class>dckss.postservlet1</servlet-class>
+  </servlet>
+  <servlet>
+    <description>This is the description of my J2EE component</description>
+    <display-name>This is the display name of my J2EE component</display-name>
+    <servlet-name>viewpostservlet</servlet-name>
+    <servlet-class>dckss.viewpostservlet</servlet-class>
+  </servlet>
+  <servlet>
+    <description>This is the description of my J2EE component</description>
+    <display-name>This is the display name of my J2EE component</display-name>
+    <servlet-name>fileservlet</servlet-name>
+    <servlet-class>dckss.fileservlet</servlet-class>
+  </servlet>
+  <servlet>
+    <description>This is the description of my J2EE component</description>
+    <display-name>This is the display name of my J2EE component</display-name>
+    <servlet-name>empidservlet</servlet-name>
+    <servlet-class>dckss.empidservlet</servlet-class>
+  </servlet>
+
+
+
+
+
+
+<servlet-mapping>
+    <servlet-name>loginnservlet</servlet-name>
+    <url-pattern>/loginnservlet</url-pattern>
+  </servlet-mapping>
+  <servlet-mapping>
+    <servlet-name>regg1servlet</servlet-name>
+    <url-pattern>/regg1servlet</url-pattern>
+  </servlet-mapping>
+  <servlet-mapping>
+    <servlet-name>askqueservlet</servlet-name>
+    <url-pattern>/askqueservlet</url-pattern>
+  </servlet-mapping>
+  <servlet-mapping>
+    <servlet-name>postservlet</servlet-name>
+    <url-pattern>/postservlet</url-pattern>
+  </servlet-mapping>
+  <servlet-mapping>
+    <servlet-name>forgotservlet</servlet-name>
+    <url-pattern>/forgotservlet</url-pattern>
+  </servlet-mapping>
+  <servlet-mapping>
+    <servlet-name>pro1servlet</servlet-name>
+    <url-pattern>/pro1servlet</url-pattern>
+  </servlet-mapping>
+  <servlet-mapping>
+    <servlet-name>pro3servlet</servlet-name>
+    <url-pattern>/pro3servlet</url-pattern>
+  </servlet-mapping>
+  <servlet-mapping>
+    <servlet-name>pro2servlet</servlet-name>
+    <url-pattern>/pro2servlet</url-pattern>
+  </servlet-mapping>
+  <servlet-mapping>
+    <servlet-name>forgotpswservlet</servlet-name>
+    <url-pattern>/forgotpswservlet</url-pattern>
+  </servlet-mapping>
+  <servlet-mapping>
+    <servlet-name>update1servlet</servlet-name>
+    <url-pattern>/update1servlet</url-pattern>
+  </servlet-mapping>
+  <servlet-mapping>
+    <servlet-name>uploadservlet</servlet-name>
+    <url-pattern>/uploadservlet</url-pattern>
+  </servlet-mapping>
+  <servlet-mapping>
+    <servlet-name>downloadservlet</servlet-name>
+    <url-pattern>/downloadservlet</url-pattern>
+  </servlet-mapping>
+  <servlet-mapping>
+    <servlet-name>deleteservlet</servlet-name>
+    <url-pattern>/deleteservlet</url-pattern>
+  </servlet-mapping>
+  <servlet-mapping>
+    <servlet-name>viewfilesservlet</servlet-name>
+    <url-pattern>/viewfilesservlet</url-pattern>
+  </servlet-mapping>
+  <servlet-mapping>
+    <servlet-name>updateservlet</servlet-name>
+    <url-pattern>/updateservlet</url-pattern>
+  </servlet-mapping>
+  <servlet-mapping>
+    <servlet-name>answerservlet</servlet-name>
+    <url-pattern>/answerservlet</url-pattern>
+  </servlet-mapping>
+  <servlet-mapping>
+    <servlet-name>FileUpload</servlet-name>
+    <url-pattern>/FileUpload</url-pattern>
+  </servlet-mapping>
+  <servlet-mapping>
+    <servlet-name>postservlet1</servlet-name>
+    <url-pattern>/postservlet1</url-pattern>
+  </servlet-mapping>
+  <servlet-mapping>
+    <servlet-name>viewpostservlet</servlet-name>
+    <url-pattern>/viewpostservlet</url-pattern>
+  </servlet-mapping>
+  <servlet-mapping>
+    <servlet-name>fileservlet</servlet-name>
+    <url-pattern>/fileservlet</url-pattern>
+  </servlet-mapping>
+  <servlet-mapping>
+    <servlet-name>empidservlet</servlet-name>
+    <url-pattern>/empidservlet</url-pattern>
+  </servlet-mapping>
+	
+  <welcome-file-list>
+    <welcome-file>welcome.jsp</welcome-file>
+  </welcome-file-list>
+</web-app>
+  
